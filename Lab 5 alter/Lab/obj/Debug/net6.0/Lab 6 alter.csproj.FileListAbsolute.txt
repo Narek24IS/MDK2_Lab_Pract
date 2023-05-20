@@ -1,0 +1,15 @@
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\bin\Debug\net6.0\Lab 6 alter.exe
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\bin\Debug\net6.0\Lab 6 alter.deps.json
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\bin\Debug\net6.0\Lab 6 alter.runtimeconfig.json
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\bin\Debug\net6.0\Lab 6 alter.dll
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\bin\Debug\net6.0\Lab 6 alter.pdb
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.csproj.AssemblyReference.cache
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.AssemblyInfoInputs.cache
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.AssemblyInfo.cs
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.csproj.CoreCompileInputs.cache
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.dll
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\refint\Lab 6 alter.dll
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.pdb
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\Lab 6 alter.genruntimeconfig.cache
+C:\Users\Hikinari\source\repos\OOP library\Lab 6 alter\Lab\obj\Debug\net6.0\ref\Lab 6 alter.dll
