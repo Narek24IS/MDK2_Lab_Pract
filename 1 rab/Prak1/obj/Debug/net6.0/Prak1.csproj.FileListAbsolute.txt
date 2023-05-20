@@ -1,0 +1,15 @@
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\bin\Debug\net6.0\Prak1.exe
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\bin\Debug\net6.0\Prak1.deps.json
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\bin\Debug\net6.0\Prak1.runtimeconfig.json
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\bin\Debug\net6.0\Prak1.dll
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\bin\Debug\net6.0\Prak1.pdb
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.csproj.AssemblyReference.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.AssemblyInfoInputs.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.AssemblyInfo.cs
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.csproj.CoreCompileInputs.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.dll
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\refint\Prak1.dll
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.pdb
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\Prak1.genruntimeconfig.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Prak1\obj\Debug\net6.0\ref\Prak1.dll

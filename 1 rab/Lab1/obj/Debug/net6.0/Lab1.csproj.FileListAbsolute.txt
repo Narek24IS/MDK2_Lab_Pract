@@ -1,0 +1,15 @@
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\bin\Debug\net6.0\Lab1.exe
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\bin\Debug\net6.0\Lab1.deps.json
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\bin\Debug\net6.0\Lab1.runtimeconfig.json
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\bin\Debug\net6.0\Lab1.dll
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\bin\Debug\net6.0\Lab1.pdb
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.csproj.AssemblyReference.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfoInputs.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.AssemblyInfo.cs
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.dll
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\refint\Lab1.dll
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.pdb
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\Lab1.genruntimeconfig.cache
+C:\Users\Hikinari\Documents\VisualStudio\1 rab\Lab1\obj\Debug\net6.0\ref\Lab1.dll
